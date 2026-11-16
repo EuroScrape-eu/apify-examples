@@ -24,3 +24,13 @@ More: [euroscrape.com](https://euroscrape.com/) · [all Actors](https://apify.co
 ## License
 
 MIT
+
+## Comparison guides
+
+Honest comparisons of the tools for a few common jobs, with prices and public success rates read on the Apify Store (EuroScrape included, and said so when it is not the best fit):
+
+- [Best Vinted Scraper 2026: 5 Options Compared](guides/best-vinted-scraper.md)
+- [Best Kleinanzeigen Scraper 2026: 5 Options Compared](guides/best-kleinanzeigen-scraper.md)
+- [Best Tool to Find Local Businesses Without a Website (2026)](guides/best-tool-businesses-without-website.md)
+- [Best French Company Data API 2026 (SIRENE, NAF Code)](guides/best-french-company-data-api.md)
+- [Alternative à l'API Pappers : liste d'entreprises par code NAF](guides/alternative-api-pappers.md)
