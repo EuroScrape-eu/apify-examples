@@ -17,7 +17,7 @@
 
 ## How to choose
 
-- **You code and need a few thousand companies:** API Recherche d'entreprises. Free and official.
+- **You code and need a few thousand companies:** API Recherche d'entreprises. Free and official. One search stops at 10,000 results: on 16 November 2026 a nationwide search for active software companies (NAF 62.01Z) said 10,000, while its 101 départements added up to about 125,100. Split larger searches by département or postcode.
 - **You need every company:** the SIRENE files, loaded into your own database.
 - **You want a CSV now, no code:** dltik (most used) or titoune33 (cheapest).
 - **You prospect and need who to call:** EuroScrape, which adds directors, VAT number, legal notices and verified company emails and phones.
