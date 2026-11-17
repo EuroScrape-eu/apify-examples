@@ -1,5 +1,7 @@
 # EuroScrape Apify examples
 
+![EuroScrape Apify examples](.github/social-preview.png)
+
 Small, ready-to-run Python scripts built on [EuroScrape Actors](https://apify.com/euroscrape?fpr=53ztcw) on Apify. Each one runs an Actor, turns its output into something useful and writes a CSV.
 
 | Example | Actor | What it does |
