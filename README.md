@@ -35,4 +35,13 @@ Honest comparisons of the tools for a few common jobs, with prices and public su
 - [Best French Company Data API 2026 (SIRENE, NAF Code)](guides/best-french-company-data-api.md)
 - [Alternative à l'API Pappers : liste d'entreprises par code NAF](guides/alternative-api-pappers.md)
 
+## Free open datasets
+
+Counts built from official registers, as CSV, each with a notebook (no personal data). All of them: [Hugging Face collection](https://huggingface.co/collections/EuroScrape/company-and-market-signals-europe-and-us-6afc8ee1691da3dc0d5f00b0) · [Kaggle](https://www.kaggle.com/euroscrape/datasets).
+
+- [US startup raises by state (SEC Form D, 30 days)](https://huggingface.co/datasets/EuroScrape/us-startup-funding-by-state-2026-11) · [notebook](https://www.kaggle.com/code/euroscrape/where-us-startups-raised-money-this-month)
+- [US new business filings per month (New York, Colorado, Connecticut)](https://huggingface.co/datasets/EuroScrape/us-new-business-filings-monthly-2024-2026) · [notebook](https://www.kaggle.com/code/euroscrape/us-new-business-filings-month-by-month)
+- [US building permits in six cities by type (30 days)](https://huggingface.co/datasets/EuroScrape/us-building-permits-six-cities-2026-11)
+- [French company signals by département and day (creations, insolvencies, contract awards)](https://huggingface.co/datasets/EuroScrape/france-company-signals-daily-2026-11) · [notebook](https://www.kaggle.com/code/euroscrape/french-companies-start-fail-and-win-contracts)
+
 <sub>Links to apify.com carry EuroScrape's Apify affiliate code: if you take a paid Apify plan, Apify may pay EuroScrape a commission, at no cost to you.</sub>
