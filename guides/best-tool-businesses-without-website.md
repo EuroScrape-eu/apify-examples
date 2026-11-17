@@ -8,10 +8,10 @@
 
 | Tool | Price per lead | Public runs, last 30 days (success) | What it adds | Best for |
 |---|---|---|---|---|
-| [XMiso Businesses Without Websites Leads](https://apify.com/xmiso_scrapers/businesses-without-websites-leads-scraper-google-maps) | $0.0099 | 354 (99.4 %) | Rated 5/5 by users | Proven, simple lead lists |
-| [Code Node Tools: Businesses Without Websites](https://apify.com/code-node-tools/google-maps-businesses-without-websites) | $0.004 per qualified business | 579 (97.6 %) | Filtered-out places at $0.0002 | Large lists at low cost |
+| [XMiso Businesses Without Websites Leads](https://apify.com/xmiso_scrapers/businesses-without-websites-leads-scraper-google-maps?fpr=53ztcw) | $0.0099 | 354 (99.4 %) | Rated 5/5 by users | Proven, simple lead lists |
+| [Code Node Tools: Businesses Without Websites](https://apify.com/code-node-tools/google-maps-businesses-without-websites?fpr=53ztcw) | $0.004 per qualified business | 579 (97.6 %) | Filtered-out places at $0.0002 | Large lists at low cost |
 | [Outscraper](https://outscraper.com) (Google Maps scraper) | see their pricing | not public | Every Google Maps field, filter on empty website | Teams already using Outscraper |
-| [EuroScrape Google Maps No-Website Leads](https://apify.com/euroscrape/google-maps-no-website-leads) | $0.003 (+ $0.001 per place read, $0.003 start) | 57 (100 %) | Domain double-check, unclaimed Google profiles, distance filter | Avoiding false "no website" leads |
+| [EuroScrape Google Maps No-Website Leads](https://apify.com/euroscrape/google-maps-no-website-leads?fpr=53ztcw) | $0.003 (+ $0.001 per place read, $0.003 start) | 57 (100 %) | Domain double-check, unclaimed Google profiles, distance filter | Avoiding false "no website" leads |
 
 ## How many local businesses have no website? (November 2026)
 
@@ -52,3 +52,5 @@ If you need a tool with hundreds of public runs behind it, start with XMiso or C
 More: [list of businesses without a website](https://euroscrape.com/guides/businesses-without-website-list) and [new businesses without a website](https://euroscrape.com/guides/new-businesses-without-website). Free: [how many businesses have no website, city by city](https://euroscrape.com/tools/businesses-without-website) (10 UK and 20 French cities, 5 trades, November 2026).
 
 *Method: prices and run statistics read from the Apify Store API on 16 November 2026 (user ratings on 10 November); survey with EuroScrape's own tool, output of all listings, 15–16 November 2026. EuroScrape publishes one of the tools compared; it is not ranked first.*
+
+<sub>Links to apify.com carry EuroScrape's Apify affiliate code: if you take a paid Apify plan, Apify may pay EuroScrape a commission, at no cost to you.</sub>

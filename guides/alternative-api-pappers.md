@@ -10,9 +10,9 @@
 |---|---|---|---|
 | [API Recherche d'entreprises](https://recherche-entreprises.api.gouv.fr/) (DINUM) | gratuite, sans clé | service officiel | Développeurs : recherche par NAF, zone, taille |
 | [Fichiers SIRENE (INSEE)](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) | gratuits | open data officiel | Toute la base, des millions de lignes |
-| [dltik Pappers / Sirene Scraper](https://apify.com/dltik/pappers-sirene-scraper) | 0,008 $ par entreprise | 414 (100 %) | Export sans code le plus utilisé |
-| [titoune33 French Company Data API](https://apify.com/titoune33/french-company-data) | 0,001 $ par fiche | 56 (100 %) | Export sans code le moins cher |
-| [EuroScrape French Companies](https://apify.com/euroscrape/france-companies) | 0,004 $ par entreprise, 0,025 $ avec contacts, 0,003 $ par lancement | 102 (93,1 %) | Prospection : dirigeants, TVA, BODACC, contacts |
+| [dltik Pappers / Sirene Scraper](https://apify.com/dltik/pappers-sirene-scraper?fpr=53ztcw) | 0,008 $ par entreprise | 414 (100 %) | Export sans code le plus utilisé |
+| [titoune33 French Company Data API](https://apify.com/titoune33/french-company-data?fpr=53ztcw) | 0,001 $ par fiche | 56 (100 %) | Export sans code le moins cher |
+| [EuroScrape French Companies](https://apify.com/euroscrape/france-companies?fpr=53ztcw) | 0,004 $ par entreprise, 0,025 $ avec contacts, 0,003 $ par lancement | 102 (93,1 %) | Prospection : dirigeants, TVA, BODACC, contacts |
 | API Pappers | crédits (offres payantes) | commercial | Comptes annuels, actes, documents |
 
 ## Comment choisir
@@ -30,3 +30,5 @@ Si le nom, le SIREN et le code NAF suffisent, l'API publique gratuite ou un outi
 Compter d'abord, gratuitement : le [compteur d'entreprises](https://euroscrape.com/fr/outils/compteur-entreprises) donne le nombre d'entreprises actives pour un code NAF et un département. Tous les codes : [codes NAF](https://euroscrape.com/fr/naf/).
 
 *Méthode : prix et statistiques de runs relevés par l'API du Store Apify le 16 novembre 2026 ; limites de l'API publique d'après sa documentation. EuroScrape publie l'un des outils comparés ; il n'est pas classé premier.*
+
+<sub>Links to apify.com carry EuroScrape's Apify affiliate code: if you take a paid Apify plan, Apify may pay EuroScrape a commission, at no cost to you.</sub>

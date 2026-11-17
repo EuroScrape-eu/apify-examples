@@ -8,10 +8,10 @@
 
 | Scraper | Price per ad | Start fee | Public runs, last 30 days (success) | Best for |
 |---|---|---|---|---|
-| [memo23 Kleinanzeigen.de Scraper](https://apify.com/memo23/kleinanzeigen-search-scraper-ppe) | $0.0015 | $0.005 | 8,933 (99.7 %) | Richest data, proven at volume |
-| [Beat Analytics Kleinanzeigen Scraper](https://apify.com/beatanalytics/kleinanzeigen-scraper) | $0.0015 | none | 1,309 (100 %) | Simple searches, no start fee |
-| [ClearPath Kleinanzeigen Immobilien Pro](https://apify.com/clearpath/kleinanzeigen-immobilien-api-pro) | $0.00149 | $0.002 | 36,622 (99.9 %) | Real estate listings at scale |
-| [EuroScrape Kleinanzeigen Scraper](https://apify.com/euroscrape/kleinanzeigen-scraper) | $0.001 ($0.002 with details) | $0.003 | 80 (100 %) | Deal score, price-drop alerts, lowest price per ad |
+| [memo23 Kleinanzeigen.de Scraper](https://apify.com/memo23/kleinanzeigen-search-scraper-ppe?fpr=53ztcw) | $0.0015 | $0.005 | 8,933 (99.7 %) | Richest data, proven at volume |
+| [Beat Analytics Kleinanzeigen Scraper](https://apify.com/beatanalytics/kleinanzeigen-scraper?fpr=53ztcw) | $0.0015 | none | 1,309 (100 %) | Simple searches, no start fee |
+| [ClearPath Kleinanzeigen Immobilien Pro](https://apify.com/clearpath/kleinanzeigen-immobilien-api-pro?fpr=53ztcw) | $0.00149 | $0.002 | 36,622 (99.9 %) | Real estate listings at scale |
+| [EuroScrape Kleinanzeigen Scraper](https://apify.com/euroscrape/kleinanzeigen-scraper?fpr=53ztcw) | $0.001 ($0.002 with details) | $0.003 | 80 (100 %) | Deal score, price-drop alerts, lowest price per ad |
 | Scraping APIs (ScrapingBee, ScraperAPI, Ujeebu) | per request | plan | not public | Developers who parse the HTML themselves |
 
 Success rates are the public run statistics Apify shows for each Actor over 30 days. A young Actor with few runs can show 100 % without having been tested at volume: weigh the number of runs, not only the rate.
@@ -33,3 +33,5 @@ If you need a long track record before you trust a tool, start with memo23 or Be
 No public one. The interfaces Kleinanzeigen offers to commercial users are for posting and managing your own ads, not for reading other people's listings. Details: [Kleinanzeigen API and price alerts](https://euroscrape.com/guides/kleinanzeigen-api).
 
 *Method: prices, start fees, users and run statistics read from the Apify Store API on 16 November 2026. EuroScrape publishes one of the tools compared; it is not ranked first.*
+
+<sub>Links to apify.com carry EuroScrape's Apify affiliate code: if you take a paid Apify plan, Apify may pay EuroScrape a commission, at no cost to you.</sub>

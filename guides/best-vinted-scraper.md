@@ -8,15 +8,15 @@
 
 | Scraper | Price per listing | Extras | Public runs, last 30 days (success) | Best for |
 |---|---|---|---|---|
-| [Epic Scrapers Vinted Scraper](https://apify.com/epicscrapers/vinted-search-scraper) | $0.0015 | details $0.003, tracked search $0.04, start $0.01 | 4,842 (99.0 %) | Most used, well rated |
-| [ScrapeBadger Vinted Scraper](https://apify.com/scrape.badger/vinted-scraper) | $0.001 | none | 173,760 (98.3 %) | Lowest price at high volume |
-| [Kazkn Vinted Smart Scraper](https://apify.com/kazkn/vinted-smart-scraper) | $0.0025 | arbitrage check $0.20, monitor check $0.05 | 1,930 (70.1 %) | Resellers who want ready-made analyses |
-| [Alkausari Vinted Products Crawler](https://apify.com/alkausari_mujahid/vinted-products-crawler) | $0.0015 | details $0.0085 | 286 (93.0 %) | Item details |
-| [EuroScrape EU Second-Hand Marketplace Scraper](https://apify.com/euroscrape/eu-marketplace-deals) | $0.001 | start $0.003, free market summary | 60 (100 %) | One search across 18 countries, price gaps |
+| [Epic Scrapers Vinted Scraper](https://apify.com/epicscrapers/vinted-search-scraper?fpr=53ztcw) | $0.0015 | details $0.003, tracked search $0.04, start $0.01 | 4,842 (99.0 %) | Most used, well rated |
+| [ScrapeBadger Vinted Scraper](https://apify.com/scrape.badger/vinted-scraper?fpr=53ztcw) | $0.001 | none | 173,760 (98.3 %) | Lowest price at high volume |
+| [Kazkn Vinted Smart Scraper](https://apify.com/kazkn/vinted-smart-scraper?fpr=53ztcw) | $0.0025 | arbitrage check $0.20, monitor check $0.05 | 1,930 (70.1 %) | Resellers who want ready-made analyses |
+| [Alkausari Vinted Products Crawler](https://apify.com/alkausari_mujahid/vinted-products-crawler?fpr=53ztcw) | $0.0015 | details $0.0085 | 286 (93.0 %) | Item details |
+| [EuroScrape EU Second-Hand Marketplace Scraper](https://apify.com/euroscrape/eu-marketplace-deals?fpr=53ztcw) | $0.001 | start $0.003, free market summary | 60 (100 %) | One search across 18 countries, price gaps |
 
 ## What a six-country search shows (16 November 2026)
 
-We searched "Nintendo Switch OLED" on Vinted in France, Germany, Spain, Italy, the Netherlands and Poland (300 listings, unrelated items dropped). The median asking price was €199 to €200 in five of the six countries and €215 in Poland, an 8 % gap: for a popular item, cross-border bargains are rare, so a scraper is most useful for spotting the individual listings priced well below the median, not whole cheaper countries. Every listing showed Vinted's buyer protection fee: €0.70 plus 5 % of the price (€8.95 on a €165 console), so compare total prices, not asking prices. Data from EuroScrape's [Vinted Scraper](https://apify.com/euroscrape/vinted-scraper), run on 16 November 2026.
+We searched "Nintendo Switch OLED" on Vinted in France, Germany, Spain, Italy, the Netherlands and Poland (300 listings, unrelated items dropped). The median asking price was €199 to €200 in five of the six countries and €215 in Poland, an 8 % gap: for a popular item, cross-border bargains are rare, so a scraper is most useful for spotting the individual listings priced well below the median, not whole cheaper countries. Every listing showed Vinted's buyer protection fee: €0.70 plus 5 % of the price (€8.95 on a €165 console), so compare total prices, not asking prices. Data from EuroScrape's [Vinted Scraper](https://apify.com/euroscrape/vinted-scraper?fpr=53ztcw), run on 16 November 2026.
 
 ## How to choose
 
@@ -34,3 +34,5 @@ If you only need Vinted, at high volume, a Vinted-only scraper above will go dee
 To be told when a listing below your price appears, see [Vinted price alert](https://euroscrape.com/guides/vinted-price-alert).
 
 *Method: prices, extras and run statistics read from the Apify Store API on 16 November 2026. Note that Vinted's terms restrict automated collection: check them for your use. EuroScrape publishes one of the tools compared; it is not ranked first.*
+
+<sub>Links to apify.com carry EuroScrape's Apify affiliate code: if you take a paid Apify plan, Apify may pay EuroScrape a commission, at no cost to you.</sub>
