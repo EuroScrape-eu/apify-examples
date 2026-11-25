@@ -1,5 +1,5 @@
 // Enrich SIREN numbers in column A (from row 2) with the Apify Actor euroscrape/france-companies.
-// Script property APIFY_TOKEN = your Apify API token. First 100 companies free per Apify account, then $0.004 each.
+// Script property APIFY_TOKEN = your Apify API token. First 50 companies free per Apify account, then $0.004 each.
 function enrichSirens() {
   const sheet = SpreadsheetApp.getActiveSheet();
   const last = sheet.getLastRow();

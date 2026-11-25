@@ -2,7 +2,7 @@
 
 Paste SIREN numbers (or SIRET, or Pappers / Societe.com links) and get back, for each company, its legal name, status, NAF code, headcount range, latest revenue, directors and VAT number. The data comes from the official French register (SIRENE / RNE) through the Apify Actor [French Companies](https://apify.com/euroscrape/france-companies?fpr=53ztcw).
 
-**Cost:** your first 100 companies are free (once per Apify account), then $0.004 per company. Website, emails and phones are optional (`"findContacts": true`, $0.025 per company where a website is found).
+**Cost:** your first 50 companies are free (once per Apify account), then $0.004 per company. Website, emails and phones are optional (`"findContacts": true`, $0.025 per company where a website is found).
 
 You need an Apify account and its API token (Apify Console → Settings → API & Integrations). Keep the token secret: put it in Clay's secret field or in the Apps Script properties, never in a shared sheet.
 
