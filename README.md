@@ -13,6 +13,7 @@ Small, ready-to-run Python scripts built on [EuroScrape Actors](https://apify.co
 | [bodacc-supplier-check](bodacc-supplier-check/README.md) | [BODACC Scraper](https://apify.com/euroscrape/bodacc-scraper?fpr=53ztcw) | Check a list of French suppliers (SIREN) against insolvency notices in the official journal (first 10 notices of each run free) |
 | [boamp-tender-digest](boamp-tender-digest/README.md) | [BOAMP Scraper](https://apify.com/euroscrape/boamp-scraper?fpr=53ztcw) | Open French public tenders matching your keywords and departments, sorted by deadline, as a daily CSV (first 10 tenders of each run free) |
 | [finess-health-establishments](finess-health-establishments/README.md) | [FINESS Scraper](https://apify.com/euroscrape/finess-scraper?fpr=53ztcw) | French nursing homes, clinics and laboratories by department, with new openings, as a CSV (first 10 establishments of each run free) |
+| [recall-watch](recall-watch/README.md) | [RappelConso Scraper](https://apify.com/euroscrape/rappelconso-scraper?fpr=53ztcw) | French consumer product recalls for your brands, keywords or barcodes, as a daily CSV (first 10 recalls of each run free) |
 | [shop-complaint-rate](shop-complaint-rate/complaints.py) | [Trusted Shops Scraper](https://apify.com/euroscrape/trusted-shops-scraper?fpr=53ztcw) | Online shops of a niche ranked by their share of unhappy customers |
 
 ## Run one
