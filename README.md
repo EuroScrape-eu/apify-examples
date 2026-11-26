@@ -10,6 +10,7 @@ Small, ready-to-run Python scripts built on [EuroScrape Actors](https://apify.co
 | [hotel-rate-parity-monitor](hotel-rate-parity-monitor/parity.py) | [Google Hotels Scraper](https://apify.com/euroscrape/google-hotels-prices?fpr=53ztcw) | Is the hotel's own website the cheapest place to book it? |
 | [eu-tenders-slack-alerts](eu-tenders-slack-alerts/tenders.py) | [EU Public Tenders Scraper](https://apify.com/euroscrape/eu-public-tenders?fpr=53ztcw) | New public tenders matching your keywords, posted to Slack |
 | [french-companies-clay-sheets](french-companies-clay-sheets/README.md) | [French Companies](https://apify.com/euroscrape/france-companies?fpr=53ztcw) | Enrich SIREN numbers from Clay or Google Sheets: directors, revenue, VAT (first 50 companies free) |
+| [bodacc-supplier-check](bodacc-supplier-check/README.md) | [BODACC Scraper](https://apify.com/euroscrape/bodacc-scraper?fpr=53ztcw) | Check a list of French suppliers (SIREN) against insolvency notices in the official journal (first 10 notices of each run free) |
 | [shop-complaint-rate](shop-complaint-rate/complaints.py) | [Trusted Shops Scraper](https://apify.com/euroscrape/trusted-shops-scraper?fpr=53ztcw) | Online shops of a niche ranked by their share of unhappy customers |
 
 ## Run one
