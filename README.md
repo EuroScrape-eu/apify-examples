@@ -15,6 +15,7 @@ Small, ready-to-run Python scripts built on [EuroScrape Actors](https://apify.co
 | [finess-health-establishments](finess-health-establishments/README.md) | [FINESS Scraper](https://apify.com/euroscrape/finess-scraper?fpr=53ztcw) | French nursing homes, clinics and laboratories by department, with new openings, as a CSV (first 10 establishments of each run free) |
 | [recall-watch](recall-watch/README.md) | [RappelConso Scraper](https://apify.com/euroscrape/rappelconso-scraper?fpr=53ztcw) | French consumer product recalls for your brands, keywords or barcodes, as a daily CSV (first 10 recalls of each run free) |
 | [ev-fast-chargers](ev-fast-chargers/README.md) | [France EV Charging Stations](https://apify.com/euroscrape/irve-charging-stations?fpr=53ztcw) | French EV charging points by department, city, operator, plug and power, as a CSV (first 10 points of each run free) |
+| [new-associations-leads](new-associations-leads/README.md) | [French Associations](https://apify.com/euroscrape/french-associations?fpr=53ztcw) | New French associations (Journal officiel) by département, activity or keyword, as a weekly CSV of leads (first 10 notices of each run free) |
 | [shop-complaint-rate](shop-complaint-rate/complaints.py) | [Trusted Shops Scraper](https://apify.com/euroscrape/trusted-shops-scraper?fpr=53ztcw) | Online shops of a niche ranked by their share of unhappy customers |
 
 ## Run one
